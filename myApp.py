@@ -26,18 +26,13 @@ elif selectPage == "Analise Exploratoria":
     ('2020', '2021', '2022', 'Todos'))
 
     if ano == '2020':        
-        
         st.write('O dataframe contém, ' + str(desp20.shape[0]) + ' linhas e ' + str(desp20.shape[1]) + ' colunas.')
-        
         sliceDesp20 = desp20[["Empenho","Valor Liquidado", "Elemento da Despesa"]]
         st.write(sliceDesp20)
-
-    elif ano == '2021':
-         
+    elif ano == '2021':   
         st.write('O dataframe contém, ' + str(desp21.shape[0]) + ' linhas e ' + str(desp21.shape[1]) + ' colunas.') 
         sliceDesp21 = desp21[["Empenho","Valor Liquidado", "Elemento da Despesa"]]
         st.write(sliceDesp21)
-    
     elif ano == '2022':
         st.write('O dataframe contém, ' + str(desp22.shape[0]) + ' linhas e ' + str(desp22.shape[1]) + ' colunas.')
         sliceDesp22 = desp22[["Empenho","Valor Liquidado", "Elemento da Despesa"]]
