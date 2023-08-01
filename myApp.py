@@ -2,5 +2,22 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+gastos20 = pd.read_csv('data/despesas_pe_2020.csv', sep=';')
 
-st.write("testando streamlit - Kennedy")
+gastos21 = pd.read_csv('data/despesas_pe_2021.csv', sep=';')
+
+gastos22 = pd.read_csv('data/despesas_2022.csv', sep=';')
+
+
+print('2020 ---------------------------------')
+
+print(gastos20.head())
+
+print('2021 ---------------------------------')
+
+print(gastos21.head())
+
+print('2022 ---------------------------------')
+
+print(gastos22.head())
+
