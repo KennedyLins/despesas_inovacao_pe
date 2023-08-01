@@ -9,15 +9,15 @@ gastos21 = pd.read_csv('data/despesas_pe_2021.csv', sep=';')
 gastos22 = pd.read_csv('data/despesas_2022.csv', sep=';')
 
 
-print('2020 ---------------------------------')
+print('Gastos 2020 ---------------------------------')
 
 print(gastos20.head())
 
-print('2021 ---------------------------------')
+print('Gastos 2021 ---------------------------------')
 
 print(gastos21.head())
 
-print('2022 ---------------------------------')
+print('Gastos 2022 ---------------------------------')
 
 print(gastos22.head())
 
