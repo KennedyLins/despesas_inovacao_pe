@@ -21,6 +21,6 @@ st.markdown(
     - Gráficos
     - Sugestões de melhorias
     ### Para Desenvolvedores
-    - O código do projeto pode ser encontrado no [GitHub](https://github.com/KennedyLins/despesas_inovacao_pe)
+    - O código deste projeto pode ser encontrado no [GitHub](https://github.com/KennedyLins/despesas_inovacao_pe)
 """
 )

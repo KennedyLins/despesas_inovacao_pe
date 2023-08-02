@@ -67,7 +67,6 @@ if ano == '2020':
     sliceDesp20 = desp20[var3col]
     st.write(sliceDesp20)
     
-    ## Copiar a partir daqui
     st.divider()
     st.subheader(textValNull)
     st.code(codeZero,language='python')
