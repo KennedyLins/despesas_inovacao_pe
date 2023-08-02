@@ -18,7 +18,8 @@ indicadores importantes para a cadeia produtiva do país e dos estados.
 Esse dado nos causou preocupação e levantou questionamentos a respeito do que fazer para melhorar essa posição.            
      
 A partir disso, fomos atrás de dados complementares pra nos auxiliar na compreensão do atual cenário e, após um trabalho de análise destes dados
-possamos tentar definir uma proposta de melhoria🏅          
+possamos tentar definir uma proposta de melhoria🏅   
+                   
 ''')
 
 
