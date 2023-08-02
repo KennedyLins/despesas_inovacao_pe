@@ -8,7 +8,7 @@ st.set_page_config(
 st.header('Contexto 🌎')
 
 
-st.markdown('''💡 Este trabalho nasceu diante da análise de dados públicos nacionais referentes ao quesito inovação. Grande parte
+st.markdown('''💡 Este trabalho nasceu diante da análise de dados públicos estaduais e nacionais no quesito inovação. Grande parte
 destes dados estão consolidados em relatórios organizados por entidades públicas e privadas e são publicados anualmente, revelando
 indicadores importantes para a cadeia produtiva do país e dos estados.
             
@@ -18,7 +18,7 @@ indicadores importantes para a cadeia produtiva do país e dos estados.
 Esse dado nos causou preocupação e levantou questionamentos a respeito do que fazer para melhorar essa posição.            
      
 A partir disso, fomos atrás de dados complementares pra nos auxiliar na compreensão do atual cenário e, após um trabalho de análise destes dados
-possamos tentar definir uma proposta de melhoria🏅   
+espera-se que possamos definir uma proposta de melhoria🏅   
                    
 ''')
 
