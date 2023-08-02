@@ -17,8 +17,8 @@ indicadores importantes para a cadeia produtiva do país e dos estados.
 📃 Nesse documento, podemos observar que o estado de Pernambuco se encontra na 15ª colocação, atrás de outros estados do nordeste como Paraíba, Ceará e Alagoas.
 Esse dado nos causou preocupação e levantou questionamentos a respeito do que fazer para melhorar essa posição.            
      
-A partir disso, fomos atrás de dados complementares pra nos auxiliar na compreensão do atual cenário e, após um trabalho de análise destes dados
-espera-se que possamos definir uma proposta de melhoria🏅   
+A partir disso, fomos atrás de dados complementares pra nos auxiliar na compreensão do atual cenário. Espera-se que após o trabalho de análise destes dados
+possamos definir uma proposta de melhoria🏅   
                    
 ''')
 
