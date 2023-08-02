@@ -6,7 +6,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from matplotlib import pyplot as plt 
-#from sklearn.cluster import KMeans 
+
 
 
 st.set_page_config(
