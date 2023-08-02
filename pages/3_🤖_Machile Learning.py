@@ -67,3 +67,4 @@ st.divider()
 
 st.subheader('# Regressão Linear [Descontinuado]')
 st.divider()
+
